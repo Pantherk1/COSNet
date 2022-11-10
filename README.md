@@ -1,5 +1,5 @@
 # Author
-Author Email(作者邮箱): dongxiu.feng@qq.com
+Author Email(作者邮箱): dongxiu.feng@qq.com   or   20207141@stu.nun.edu.cn
 
 # Instruction
 Segment stage：front_main1_mem_new.py
