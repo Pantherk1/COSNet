@@ -1,5 +1,6 @@
 # Author
-Author Email: 1599660764@qq.com
+Author Email: 20207141@stu.nun.edu.cn.com
+OCRID: 0000-0002-6285-3725
 
 # Instruction
 Segment stage：front_main1_mem_new.py
