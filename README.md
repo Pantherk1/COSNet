@@ -1,5 +1,6 @@
 # Author
 OCRID: 0000-0002-6285-3725
+Email：dongxiu.feng@qq.com
 
 # Instruction
 Segment stage：front_main1_mem_new.py
